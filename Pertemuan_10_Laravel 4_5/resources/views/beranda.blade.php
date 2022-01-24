@@ -50,9 +50,9 @@
         </p>
     @endif
 
-    @if ($nama == "Olan")
+    @if ($nama == "Yola")
     <p>
-        {{"Nama Saya Narantyo"}}
+        {{"Nama Saya Yolanda"}}
     </p>
     @elseif ($nama = "Niall")
     <p>
