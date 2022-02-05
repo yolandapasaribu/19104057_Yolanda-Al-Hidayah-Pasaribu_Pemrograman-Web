@@ -1,0 +1,26 @@
+.head{
+    background: red;
+    font-size: 2 em;
+}
+
+#add{
+    background: yellow;
+    font-size: 0.8 em;
+}
+
+#event{
+    background: blue;
+    font-size: 0.8 em;
+}
+
+table{
+   border: 50px solid black;
+}
+
+tr{
+
+    background: green;
+    font-size: 0.9 em;
+    border: 3cm;
+    border-color: aqua;
+}
